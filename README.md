@@ -1,3 +1,3 @@
-# Kokoa Clone 2020 Update
+# Kokoa Clone Challenge
 
-HTML & CSS are so much fun!
+Kokoa Clone challenge - HTML & CSS
